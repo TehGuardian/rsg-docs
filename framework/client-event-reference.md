@@ -32,6 +32,20 @@ RegisterNetEvent('RSGCore:Client:OnPlayerUnload', function()
 end)
 ```
 
+### RSG-Appearance:Client:OpenCreator
+
+* Handles the event that triggers when the "Create New Character" button is pressed.
+
+{% hint style="success" %}
+This event it triggers as soon as the player selects the option to create a new character. {% endhint %}
+{% endhint %}
+
+```lua
+RegisterNetEvent('rsg-appearance:client:OpenCreator', function()
+    print('Im a client and i just logged out of your server!')
+end)
+```
+
 ### RSG-Spawn:Client:NewPlayer
 
 * Handles the event triggered after the player creates their character.
