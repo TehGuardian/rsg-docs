@@ -26,7 +26,7 @@ Make sure you check the "Open with code" boxes!
 
 ![](../.gitbook/assets/prettier.png)
 
-* [FiveM natives](https://marketplace.visualstudio.com/items?itemName=overextended.cfxlua-vscode)
+* [RedM natives](https://marketplace.visualstudio.com/items?itemName=overextended.cfxlua-vscode)
 
 <figure><img src="../.gitbook/assets/cfxlua (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -38,7 +38,7 @@ Make sure you check the "Open with code" boxes!
 
 ![](../.gitbook/assets/darkonepro.png)
 
-* [QBCore Snippets](https://marketplace.visualstudio.com/items?itemName=JericoFX.rsg-core-snippets)
+* [RSGCore Snippets](https://marketplace.visualstudio.com/items?itemName=hamf1.rsg-core-snippets)
 
 <figure><img src="../.gitbook/assets/qb-snippets.png" alt=""><figcaption></figcaption></figure>
 
